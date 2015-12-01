@@ -1,0 +1,12 @@
+class TaiChi
+{
+  private String chi;
+  public TaiChi(String chi)
+  {
+    this.chi = chi;
+  }
+  public String toString()
+  {
+    return "The tao of Tai Chi";
+  }
+}
